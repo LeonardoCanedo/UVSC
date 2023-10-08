@@ -15,7 +15,7 @@ Para adicionar uma extensão ao seu Google Chrome:
 
 To add an extension to your Google Chrome:
 
-Download the 3 files available in the repository and place them in a folder on your computer.
-Open your browser and access the page "chrome://extensions" (without the quotes) in the address bar.
-Enable developer mode, which can usually be found in the upper right corner of the extensions page.
-Drag the folder created with the extension files to the extensions area of the "chrome://extensions" page.
+- Download the 3 files available in the repository and place them in a folder on your computer.
+- Open your browser and access the page "chrome://extensions" (without the quotes) in the address bar.
+- Enable developer mode, which can usually be found in the upper right corner of the extensions page.
+- Drag the folder created with the extension files to the extensions area of the "chrome://extensions" page.
